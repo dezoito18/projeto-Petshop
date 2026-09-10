@@ -6,6 +6,8 @@ A fictional pet shop landing page built with **HTML5** and **CSS3**, created as 
 
 PetDog is a one-page website featuring an about section, image gallery, embedded map, and contact form. This was my first hands-on HTML and CSS project, built to practice concepts like Flexbox, transitions, gradients, and layout structure.
 
+##Live site: [text](https://dezoito18.github.io/projeto-Petshop/)
+
 ## Features
 
 - Fixed navigation menu with smooth scroll to sections
